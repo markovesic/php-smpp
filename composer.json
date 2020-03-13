@@ -1,5 +1,5 @@
 {
-  "name": "php-smpp/php-smpp",
+  "name": "markovesic/php-smpp",
   "description": "PHP-based SMPP client lib",
   "keywords": ["smpp", "sms", "texting", "gsm"],
   "homepage": "http://github.com/onlinecity/php-smpp",
@@ -7,9 +7,9 @@
   "license": "LGPL",
   "authors": [
     {
-      "name": "Hans Duedal",
-      "email": "hd@oc.dk",
-      "homepage": "http://oc.dk"
+      "name": "Marko Vesic",
+      "email": "info@vemid.net",
+      "homepage": "http://www.vemid.net"
     }
   ],
   "require": {
